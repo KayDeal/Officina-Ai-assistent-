@@ -1,14 +1,47 @@
-# Officina AI Assistant
+#  Officina AI Assistent
 
-An AI-powered phone assistant for restaurant reservations built for Officina.
+Ein KI-betriebener Telefonassistent der rund um die Uhr Reservierungen für Restaurants entgegennimmt – vollautomatisch, ohne dass ein Mitarbeiter den Hörer abnehmen muss.
 
-## What it does
-- Answers incoming calls automatically
-- Takes and manages reservations
-- Sends reservation confirmations via Telegram
+---
 
-## Built with
-- Vapi (AI phone assistant)
-- Twilio (phone calls)
-- Make.com (automation)
-- Telegram Bot (notifications)
+##  Was ist das Problem?
+
+Restaurants verpassen täglich Anrufe:
+- Stoßzeiten → Personal beschäftigt → Telefon klingelt → niemand geht ran
+- Potenzielle Gäste legen auf und rufen die Konkurrenz an
+- Verpasste Anrufe = verpasste Einnahmen
+
+---
+
+##  Die Lösung
+
+Ein KI-Assistent der **jeden Anruf sofort annimmt** – egal ob Mittagsrush, Wochenende oder mitten in der Nacht.
+
+- Nimmt Anrufe automatisch entgegen
+- Nimmt Reservierungen auf (Name, Uhrzeit, Personenanzahl)
+- Schickt die Reservierung sofort per Telegram ans Restaurant
+- Antwortet in Sekunden – kein Warten, kein Besetztzeichen
+
+---
+
+## Wie wurde es gebaut?
+
+| Tool | Funktion |
+|------|----------|
+| Vapi | KI-Telefonassistent |
+| Twilio | Telefonnummer & Anrufweiterleitung |
+| Make.com | Automatisierung & Datenverarbeitung |
+| Telegram Bot | Benachrichtigungen ans Restaurant |
+
+---
+
+## Warum lohnt sich das?
+
+- Kein verpasster Anruf mehr
+- Kein extra Personal nötig
+- 24/7 verfügbar
+- Sofort einsatzbereit
+
+---
+
+*Gebaut von Kaan – KI & Automatisierungs-Lösungen für die Gastronomie*
