@@ -44,4 +44,8 @@ Ein KI-Assistent der **jeden Anruf sofort annimmt** – egal ob Mittagsrush, Woc
 
 ---
 
+## Live Demo
+
+[Website ansehen](https://officina-visual-feast.lovable.app/)
+
 *Gebaut von Kaan – KI & Automatisierungs-Lösungen für die Gastronomie*
